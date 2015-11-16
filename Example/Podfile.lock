@@ -1,0 +1,19 @@
+PODS:
+  - JTFMDB (0.1.0):
+    - sqlite3
+  - sqlite3 (3.9.2.0):
+    - sqlite3/common (= 3.9.2.0)
+  - sqlite3/common (3.9.2.0)
+
+DEPENDENCIES:
+  - JTFMDB (from `../`)
+
+EXTERNAL SOURCES:
+  JTFMDB:
+    :path: ../
+
+SPEC CHECKSUMS:
+  JTFMDB: 855f8b70234535d7b6a7a0e9c462c5d49bb4c987
+  sqlite3: 5e6238a0a38f7356c0b672290be9ea95e8ceee9f
+
+COCOAPODS: 0.39.0
